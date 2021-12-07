@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1638849982 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\main.cpp
+	<bits/stdc++.h>
+	"char.h"
+	"int.h"
+	"long.h"
+	"float.h"
+	"double.h"
+
+1638850272 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\char.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638799053 c:\users\nata\desktop\уник\АОС\ll3_ver2\circles.h
+	<bits/stdc++.h>
+
+1638798927 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\circles.cpp
+	<bits/stdc++.h>
+
+1638801983 c:\users\nata\desktop\уник\АОС\ll3_ver2\char.h
+	"globals.h"
+
+1638848763 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\int.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638849286 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\globals.cpp
+
+1638802351 c:\users\nata\desktop\уник\АОС\ll3_ver2\globals.h
+
+1638801825 c:\users\nata\desktop\уник\АОС\ll3_ver2\char.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638802602 c:\users\nata\desktop\уник\АОС\ll3_ver2\int.h
+
+1638802690 c:\users\nata\desktop\уник\АОС\ll3_ver2\long.h
+
+1638849497 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\long.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638849456 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\float.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638802946 c:\users\nata\desktop\уник\АОС\ll3_ver2\float.h
+
+1638849456 source:c:\users\nata\desktop\уник\АОС\ll3_ver2\double.cpp
+	<bits/stdc++.h>
+	"globals.h"
+
+1638802981 c:\users\nata\desktop\уник\АОС\ll3_ver2\double.h
+
